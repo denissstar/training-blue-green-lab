@@ -7,3 +7,5 @@ public_b_subnet_name        = "talent-academy-public-b"
 private_a_subnet_name       = "talent-academy-private-a"
 private_b_subnet_name       = "talent-academy-private-b"
 number_of_private_instances = 3
+hosted_zone                 = "deniss-training-lab.com"
+subdomain                   = "my-blue-green-app"
